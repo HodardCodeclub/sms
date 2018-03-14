@@ -28,6 +28,7 @@
                     		<th><div><?php echo get_phrase('date');?></div></th>
                     		<th><div><?php echo get_phrase('options');?></div></th>
 						</tr>
+
 					</thead>
                     <tbody>
                     	<?php foreach($invoices as $row):?>
